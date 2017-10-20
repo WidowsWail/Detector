@@ -1,4 +1,3 @@
-# Detector
 !function(global){
 	function DetectorBase(configs){
 		if(!this instanceof DetectorBase){
